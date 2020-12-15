@@ -4,7 +4,7 @@ Learning Api-First with Swagger, OpenApi and SpringBoot
 ## Materials
  - https://www.youtube.com/watch?v=YmQyzNF5iKg <- video I used to make the project, good video about 17 min
  
-´´´
+```bash
             <plugin>
                 <groupId>io.swagger.codegen.v3</groupId>
                 <artifactId>swagger-codegen-maven-plugin</artifactId>
@@ -28,4 +28,4 @@ Learning Api-First with Swagger, OpenApi and SpringBoot
                     </execution>
                 </executions>
             </plugin>
-´´´
+```
